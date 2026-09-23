@@ -5,8 +5,8 @@ Ohjelmoinnin perusteiden harjoitus 5
 
 Täydennä tähän:
 
-- Nimi
-- Ryhmä
+- Janne Lottonen
+- INTKM26A2, team H20
 
 ## Projektin kuvaus
 
